@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NutriVision_Login</string>
+    <string name="NutriVision">NutriVision</string>
+    <string name="Login">LOGIN</string>
+    <string name="LoginInfo">Login Information</string>
+    <string name="MemberLogin">Member Login</string>
+    <string name="Email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="Enter_your_email_address">Enter your email address</string>
+    <string name="Enter_your_password">Enter your password</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="REGISTER">REGISTER</string>
+</resources>

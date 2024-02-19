@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900355753499",
+    "project_id": "nutrivision-d91ea",
+    "storage_bucket": "nutrivision-d91ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900355753499:android:33207c43d2bfcbce371abe",
+        "android_client_info": {
+          "package_name": "com.nutrivision_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABNb6oHEFey4JhI8DO5vjLRZq6Ej8Cxa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
